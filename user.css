@@ -276,8 +276,6 @@
 }
 :root {
     --nav-bar-width: 232px;
-    --background-noise: url(https://www.bram.us/wordpress/wp-content/uploads/2020/02/connected-vertices.gif);
-    cursor: url(https://cdn.discordapp.com/attachments/1040102834391228447/1096708771792830554/gam1564.cur), default;
 }
 .encore-dark-theme .encore-bright-accent-set {
     --background-base: #000000;
